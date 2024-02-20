@@ -1,1 +1,2 @@
 # SMS-spam
+This repository is for my internship project on building an AI model to tackle the ever-growing problem of SMS spam. This project aimed to develop a robust classifier capable of distinguishing legitimate messages from deceptive spam tactics. Leveraging text-based features like word frequency and semantic meaning (TF-IDF and word embeddings), the project explored and experimented with various machine learning algorithms, including Naive Bayes, Logistic Regression, and Support Vector Machines.#CodSOFT @CodSoft
